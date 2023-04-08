@@ -11,8 +11,6 @@ Testing is key to making code maintainable, so you’ll also write a unit test f
 
 Because this application won’t be deployed, you’ll need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video AND add it to the readme of your project.
 
-> **Note**: There is no starter code for this assignment.
-
 ## User Story
 
 ```md
@@ -42,14 +40,6 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
-
-## Mock-Up
-
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
-
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/10-object-oriented-programming-homework-demo.png)
-
-The styling in the image is just an example, so feel free to add your own.
 
 ## Getting Started
 
