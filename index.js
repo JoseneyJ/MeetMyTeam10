@@ -151,7 +151,7 @@ function runApp() {
   }
   createTeam();
 }
-// The end of runApp function
+
 
 //The initialization of the function runApp
 runApp();
