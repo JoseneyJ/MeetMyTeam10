@@ -13,7 +13,6 @@ const DIST = path.resolve(__dirname, "dist");
 const outputPath = path.join(DIST, "teams.html");
 const generateTeam = require("./src/template.js");
 
-// Need an array for all the information that the team will need Manger, Engineer, Intern
 teamArray = [];
 
 
