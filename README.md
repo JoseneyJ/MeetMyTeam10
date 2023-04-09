@@ -192,3 +192,8 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+<img width="1132" alt="Screenshot 2023-04-08 at 12 22 21 PM" src="https://user-images.githubusercontent.com/119374215/230732235-ab3b97ca-9198-4194-b766-d0632eecbdc7.png">
+
+<img width="837" alt="Screenshot 2023-04-08 at 12 28 50 PM" src="https://user-images.githubusercontent.com/119374215/230742299-3d8e8a00-7cd5-4c13-8278-824078b0e093.png">
+
